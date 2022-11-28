@@ -318,7 +318,7 @@ function updateTeamStatus($reparseSettings=false){
 				$nflNewOppoScore = $game['competitions'][0]['competitors'][$nflOppoIndex]['score'];
 			
 				//check score changes
-				if ($nflMyScore + 6 == $nflNewTeamScore) {
+				if ($nflMyScore + 1 == $nflNewTeamScore) {
 					//play touchdown sequence if set
 					if ($nflTouchdownSequence != 'none') {
 						insertPlaylistImmediate($nflTouchdownSequence);
