@@ -109,10 +109,10 @@ foreach ($pluginSettings as $key => $value) {
             <div class="justify-content-md-center row pt-5 py-4">		
               <div class="col-md-6">		  
                 <div class="card-title h5">
-                  NFL Team
+                  NHL Team
                 </div>
                 <div class="mb-2 text-muted small h6">
-                  Select your NFL team
+                  Select your NHL team
                 </div>
               </div>
               <div class="col-md-6">            
