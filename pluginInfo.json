@@ -1,11 +1,11 @@
 {
-	"repoName": "fpp-nfl",
-	"name": "NFL/NCAA Touchdown",
+	"repoName": "fpp-nhl",
+	"name": "NHL Scores",
 	"author": "Ben Kools (koolsb)",
-	"description": "Automatically play a celebratory sequence when your NFL or NCAA team scores or wins!",
-	"homeURL": "https://github.com/koolsb/fpp-nfl",
-	"srcURL": "https://github.com/koolsb/fpp-nfl.git",
-	"bugURL": "https://github.com/koolsb/fpp-nfl/issues",
+	"description": "Automatically play a celebratory sequence when your NHL team scores or wins!",
+	"homeURL": "https://github.com/ekosman87/NHL-Sores",
+	"srcURL": "https://github.com/ekosman87/NHL-Sores.git",
+	"bugURL": "https://github.com/ekosman87/NHL-Sores/issues",
 	"allowUpdates": 1,
 	"versions": [
 		{
