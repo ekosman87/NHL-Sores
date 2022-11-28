@@ -83,7 +83,7 @@ foreach ($pluginSettings as $key => $value) {
       <div class="card">
         <div class="justify-content-md-center row py-3">
           <div class="col-md-auto">
-            <h1>NFL/NCAA Goal Plugin</h1>
+            <h1>NHL Goal Plugin</h1>
           </div>
         </div>
       </div>
