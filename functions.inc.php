@@ -89,7 +89,7 @@ function getSequences(){
 	return $sequenceList;
 }
 
-function getTeamInfo($team, $league="nfl"){
+function getTeamInfo($team, $league="nhl"){
 	if ($league == "ncaa") {
 		$league = "college-football";
 	}
@@ -110,7 +110,7 @@ function getTeamInfo($team, $league="nfl"){
 
 }
 
-function updateTeam($league="nfl"){
+function updateTeam($league="nhl"){
 	logEntry("Updating {$league} Team and logo");
 	global $pluginName;
 	global $pluginSettings;
