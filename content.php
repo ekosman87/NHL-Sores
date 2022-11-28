@@ -91,7 +91,7 @@ foreach ($pluginSettings as $key => $value) {
       <div class="card">
         <ul class="nav nav-tabs" id="myTab" role="tablist">
           <li class="nav-item" role="presentation">
-            <button class="nav-link active" id="nhl-tab" data-bs-toggle="tab" data-bs-target="#nfl" type="button" role="tab" aria-controls="nfl" aria-selected="true">NFL</button>
+            <button class="nav-link active" id="nfl-tab" data-bs-toggle="tab" data-bs-target="#nfl" type="button" role="tab" aria-controls="nfl" aria-selected="true">NFL</button>
           </li>
           <li class="nav-item" role="presentation">
             <button class="nav-link" id="ncaa-tab" data-bs-toggle="tab" data-bs-target="#ncaa" type="button" role="tab" aria-controls="ncaa" aria-selected="false">NCAA</button>
